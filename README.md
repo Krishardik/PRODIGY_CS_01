@@ -23,4 +23,4 @@ This script provides a simple command-line interface for users to encrypt and de
 + *Step 1* : git clone https://github.com/Krishardik/PRODIGY_CS_01
 + *Step 2* : pip install -r requirements.txt
 + *Step 3* : cd PRODIGY_CS_01
-+ *Step 4* : python WiZzryptic
++ *Step 4* : python WiZzryptic.py
